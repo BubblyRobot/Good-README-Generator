@@ -2,6 +2,7 @@
 
 
 ![Video of Readme functionality](./Develop/utils/readmeGIF.gif);
+![Part 2 Video of Readme functionality. Displaying Readme File](./Develop/utils/readmeGIF2.gif);
 
 # Bootcamp Specifications
 
