@@ -4,6 +4,9 @@
 ![Video of Readme functionality](./Develop/utils/readmeGIF.gif);
 ![Part 2 Video of Readme functionality. Displaying Readme File](./Develop/utils/readmeGIF2.gif);
 
+![Image of generated readme file inside of the repo. ](./Develop/utils/readme.png)
+
+
 # Bootcamp Specifications
 
 
